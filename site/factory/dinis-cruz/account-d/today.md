@@ -3,7 +3,7 @@
 From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothing on account 4 is working right now; five sessions' last turns failed during the outage and wait for a message.
 
 ## Leads
-- [cl-4.maestro (d.maestro)](https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T): working; this page, the home, relays.
+- [cl-4.maestro (d.maestro)](https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo): new session from 23:34 UTC 25 Nov (the old one, session_015gaHdbdtdAPC4v2AstRS8T, waits on Dinis to archive); this page, the home, relays.
 - [d.helm](https://claude.ai/code/session_015gaHdbUFC93JvpTQHrx8WV): idle; central circle; area staged in PrompTugal (home push refused).
 - [d.conductor (SovereignWebsite)](https://claude.ai/code/session_015gaHdbX954ByXJf8LH5FLL): waiting on Dinis (d.design's policy line; A3 retire f0af2f6).
 - [d.conductor (PrompTugal)](https://claude.ai/code/session_015gaHdeRkCjZyCB2PTeQiJ8): last turn failed (20:18 wake); needs a message.
@@ -33,6 +33,7 @@ From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothi
 - [d.sites](https://claude.ai/code/session_015gaHde5GfQygpBgyUhNzuf): last turn failed; routes only, never builds (Dinis, 24 Nov).
 - [d.streaming](https://claude.ai/code/session_015gaHdbE7t4XNf21L7neufF), [d.wordpress](https://claude.ai/code/session_015gaHda1bnbqASo1ed8VUdY), [d.donna-freed](https://claude.ai/code/session_015gaHdeh6Sh45Ef2fZFAhLi), [d.pybot](https://claude.ai/code/session_015gaHddy85C9E8oW9YhJ6FK): site keepers; d.donna-freed waits on Donna's original photos and bio.
 - [d.hub](https://claude.ai/code/session_015gaHdbMGVTN5vJ9jVfAi3N): waiting (no home yet).
+- [cl-4.suno](https://claude.ai/code/session_015gaHdbzz8sb6r4WfYnsTLm): started 23:35 UTC 25 Nov at Dinis's word (SovereignWebsite__IaC dev, no wake), twin of suno.b and suno.c; plan written, nothing spent; waits on Dinis (spend cap, who signs in, Suno MCP) and a home (Site__Agent__Suno__Claude__4, through infra).
 
 ## PrompTugal and others
 - [d.bulletins](https://claude.ai/code/session_015gaHdc5qb6hjqRntz5XQXj): presenters 3D scenes (v0.3.0-pre.1 out); home requested.
