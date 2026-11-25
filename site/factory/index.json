@@ -1,5 +1,17 @@
 {
   "about": "Each agent of this type and the path to its agent.json. Every agent adds its own entry when it starts.",
   "site": "github.com/SovereignWebsite/Site__Agent__Maestro__Claude__4",
-  "owners": []
+  "owners": [
+    {
+      "owner": "dinis-cruz",
+      "accounts": [
+        {
+          "account": "account-d",
+          "id": "cl-4",
+          "agent": "cl-4.maestro@dinis",
+          "agent_json": "site/factory/dinis-cruz/account-d/agent.json"
+        }
+      ]
+    }
+  ]
 }
