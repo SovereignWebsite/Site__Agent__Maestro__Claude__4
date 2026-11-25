@@ -1,17 +1,25 @@
 {
   "agent": "cl-4.maestro@dinis",
-  "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T",
+  "session": "https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo",
   "status": "active",
-  "fingerprint": "sha256:bda9733b7f8b07d7",
-  "signing_fingerprint": "sha256:37c943416bbded73",
-  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJDYqcs7Jf3e4gmg/SzxxX3v6M1SSyY2Vw5e05dekfjntZs1l4eGmbR8Qa7Olwu87eX3GuTWiHtgOkuv2e9WJcQ=",
+  "fingerprint": "sha256:d727af71c1b42cbf",
+  "signing_fingerprint": "sha256:4501019bd2579d48",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHRUmg9RentS+FT0E4+DAhL0GlL8x0cn7/Fut/znTqWOfuzVJjRAFGS98cmW+NyUaLRGdxJjebirZq6yWSPZ4BQ=",
   "bundle": {
     "v": 1,
-    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuKQP3hyZ0UxaIzb2VJqf\njHcmWify2Sf7Y3XV6LP5CPzftgXg+wDSNeOYsEnrhTMW9LC13kpM5ThEuUBNwHNL\n3rbCR69ROXYHnmz/T2IWZeuOaLHZH73XMS0CZ7M/sriIPbIG0H4mOKchn6J7Rbk8\nLoOJYSpznL7DF62FSRgfZVTf2eyPmer3WxGunejELLOPBmYi+TkUGcU3fB6ZNq9v\n75hFkkoX8pYaMS+B8emRDAvtWwWlhH+MmGuskMy3EJ5BPVl4F4/H5vAx5fn6tVZP\nXM0ZRIpdm838iht/GbOEOFSDOfACtMtNaevU8+e+xUfiN1BM0r/tFzW+M9PFbxJQ\nCHka0MuGaOUFlT+P0fs0w743FRsc8aMMtSAHQtajg3UUxYK5y7mts7Cxe54l94gn\nlcC5c926LPceb0x5V3w8v/IGSdC+erwHNjOdM7JfpIKXAGOfaM3+Sd4iec4tjX2x\n+tVatEoBTds0f9NRpwwhAz7MI7N6QG7qiUzwu9NNoto30QiC1/5WQrxFCU56/PEw\nev3n62c0ctJ1vte8LxcBGRqNKlITbvMAMrbvMILQYgBSCd4oZ+5vDQxffQPbMjwZ\nlme87N2zUfW8QE6/nmgPMukrWkdmI4wvkg1FP7xwJV6l4K0EWQvJRgRNnLDw/nk+\nJH5Mey2q0KMEd2vZjWbFRfMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
-    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkNipyzsl/d7iCaD9LPHFfe/ozVJL\nJjZXDl7Tl16R+Oe1mzWXh4aZtHxBrs6XC7zt5fca5NaIe2A6S6/Z71YlxA==\n-----END PUBLIC KEY-----\n",
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzCxVgcrKwtNVQqCLSMJ3\nHKyUImxmT0wgiKIfncOX7RZDC0O4UX5/eVIteDvHz24BOInwtbyt149s59ZudaxA\nQoHkCvPV8UMVRMNiGXyBZLFrTbVD0RWCVHaOPZoA0iMzE7gwHl8llTViT3RL/bac\nnLRXBV1DmttZ8mq/ghnk7YjHmEYdg3UzjIUoucvLVTmbMOUjqjbM7YQM21ig2scI\n7TSRpnSoM0ZlmixZXZQXteBF+FzNaCMd8Zl/Hf3xh3kdK7RyIZ7WNrvfxK+raG/8\ny7UfZlS/tZ+qTVA9BQr9v42W2a86nkATp6iRKno7X9/Fd/JtHhECpCpELcBKi5hH\nTm2emjo4xLj8Nru6WgpCbUdQmgcArVEaQ9LFb0NEEZKhOt2+Ja4lF6T0vS5jhjj1\nZdYqJ60KZRZaCVkl/7ig4JZNXRwVD6mvl2AtyE0yqPqebK2JRzQS0BBtbgV4BBvv\nTLlLanp80NqKyencJsI6lxur0HksYlvUVS99veJ/2VJp/LE07/lvgEKv98NI2HDs\ncJbeD37vmNXCQtTD4pV1Vpxxp8UZLjC83sIcbq8nBykFXj9bMp8B5Kr1nVjAGWfa\ndh9+wuI1vsOZS6ZzEk7uksGaNf5LHu0YMPX5dXp8Ylh6OYsV1i7bBoc/lrTs2vqJ\nMHPW+ZDpYXP4M6A6y22PAkECAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdFSaD1F6e1L4VPQTj4MCEvQaUvzH\nRyfv8W63/OdOpY5+7NUmNEAUZL3xyZb43JRotEZ3EmN5uKtmrrJZI9ngFA==\n-----END PUBLIC KEY-----\n",
     "label": "cl-4-maestro-sovereignwebsite",
-    "fingerprint": "sha256:bda9733b7f8b07d7",
-    "signing_fingerprint": "sha256:37c943416bbded73"
+    "fingerprint": "sha256:d727af71c1b42cbf",
+    "signing_fingerprint": "sha256:4501019bd2579d48"
   },
-  "how": "Made by the agent in its own session with sgit pki keygen (tools/setup-signing.sh). Only the public half is here. A session key: it ends with its session."
+  "how": "Made by the agent in its own session with sgit pki keygen (tools/setup-signing.sh). Only the public half is here. A session key: it ends with its session.",
+  "supersedes": {
+    "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T",
+    "fingerprint": "sha256:bda9733b7f8b07d7",
+    "signing_fingerprint": "sha256:37c943416bbded73",
+    "status": "superseded",
+    "superseded": "2026-11-25T23:32Z",
+    "note": "routine hand-over (offboarding case 1) at Dinis's word, 25 Nov ~23:40 UTC; this commit is signed by the outgoing key, vouching for the successor"
+  }
 }
