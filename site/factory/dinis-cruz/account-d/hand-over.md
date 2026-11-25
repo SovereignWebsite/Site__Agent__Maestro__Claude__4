@@ -33,3 +33,14 @@ The account's login email appears in the session's system context; never written
 
 ## Key retirement plan
 The successor makes its own key and sends me its public key file. I commit it as site/keys/cl-4.maestro.json signed with my key (the checker reads keys as before the commit, so my key vouches for its successor), recording mine as superseded. In PrompTugal board/keys.json the successor adds maestro.d-account-d-2 and marks maestro.d-account-d superseded.
+
+## Done (23:30 to 23:36 UTC 25 Nov)
+- [x] Hand-over note committed (56b2507).
+- [x] Successor started: https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo (Opus). Its written confirmation, 23:32 UTC: "I take over as cl-4.maestro@dinis from you, in the routine hand-over (offboarding case 1)."
+- [x] Old key superseded in this home: 37ff63b (signed by the outgoing key, vouching for the successor's). PrompTugal's maestro.d-account-d: the successor marks it superseded when it publishes maestro.d-account-d-2.
+- [x] Wake repointed: trig_01B1McHR29EHcJsNGoCk5TMz into the successor (hourly at :48); trig_01RxvbcyZiXgME4nJmVfA9HN disabled.
+- [x] Secrets re-sealed to the successor (315d0a5): maestros-channel vault credentials and the sealed-inbox lane credentials. The successor checks they open.
+- [x] No pki.sgit.ai link on the outgoing keys.
+- [x] Key copies: the outgoing private keys exist only in the outgoing session's container; archiving it ends them.
+- [ ] Archive: a maestro's session is archived by Dinis, once the successor confirms the sealed files open. Vault keys the outgoing session holds (names only): maestros-channel (yk8ih8v1); the sealed-inbox lane (vault zq19epq6, issued by maestro.b). Both now sealed to the successor.
+- Also started before leaving, at Dinis's word (~23:35 UTC): cl-4.suno (SovereignWebsite), https://claude.ai/code/session_015gaHdbzz8sb6r4WfYnsTLm, handed to the successor.
