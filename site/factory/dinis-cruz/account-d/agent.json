@@ -1,25 +1,67 @@
 {
   "name": "cl-4.maestro@dinis",
-  "aliases": ["d.maestro (account-d)", "maestro.d (account-d)"],
+  "aliases": [
+    "d.maestro (account-d)",
+    "maestro.d (account-d)"
+  ],
   "account": "cl-4 (formerly account D)",
-  "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T",
+  "session": "https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo",
   "home": "SovereignWebsite/Site__Agent__Maestro__Claude__4 (Dinis, 25 Nov ~23:25 UTC: 'you are now Site__Agent__Maestro__Claude__4')",
   "role": "maestro of Claude account 4: conducts its conductors and central circle, relays between the maestros, briefs Dinis",
   "keys": {
-    "home": {"file": "site/keys/cl-4.maestro.json", "signing_fingerprint": "sha256:37c943416bbded73"},
-    "promptugal": {"id": "maestro.d-account-d", "fingerprint": "sha256:01166b9eb874bad5", "signing_fingerprint": "sha256:f8a96c3f0ff18d8c", "where": "PrompTugal__News__Website board/keys.json"}
+    "home": {
+      "file": "site/keys/cl-4.maestro.json",
+      "fingerprint": "sha256:d727af71c1b42cbf",
+      "signing_fingerprint": "sha256:4501019bd2579d48"
+    },
+    "promptugal": {
+      "id": "maestro.d-account-d",
+      "fingerprint": "sha256:01166b9eb874bad5",
+      "signing_fingerprint": "sha256:f8a96c3f0ff18d8c",
+      "where": "PrompTugal__News__Website board/keys.json",
+      "note": "old session key; maestro.d-account-d-2 not yet published (PrompTugal add_repo refused in this session)"
+    }
   },
   "state": "active",
-  "wake": "hourly at :48 UTC (trig_01RxvbcyZiXgME4nJmVfA9HN), Dinis 24 Nov ~11:23 UTC",
-  "context_tokens": 766000,
+  "wake": "hourly at :48 UTC (trig_01B1McHR29EHcJsNGoCk5TMz, into this session from 23:48 UTC 25 Nov)",
+  "context_tokens": 60000,
   "waiting_on": [
-    {"what": "home-repository access for account D's agents (add_repo refused in their sessions)", "who": "Dinis", "since": "2026-11-23"},
-    {"what": "a word in d.decisions's session confirming its decider role (record 2026-11-24__account-decision-agents)", "who": "Dinis", "since": "2026-11-24T15:00Z"},
-    {"what": "start data.open.d (record D13 names the maestro)", "who": "Dinis", "since": "2026-11-24T01:20Z"},
-    {"what": "who rebuilds the ten stale PrompTugal sites", "who": "Dinis", "since": "2026-11-24T09:25Z"},
-    {"what": "which account runs account C's design round", "who": "Dinis", "since": "2026-11-24T15:55Z"},
-    {"what": "a fresh cl-4.maestro session (context above 750k)", "who": "Dinis", "since": "2026-11-25T23:29Z"}
+    {
+      "what": "home-repository access for account D's agents (add_repo refused in their sessions)",
+      "who": "Dinis",
+      "since": "2026-11-23"
+    },
+    {
+      "what": "a word in d.decisions's session confirming its decider role (record 2026-11-24__account-decision-agents)",
+      "who": "Dinis",
+      "since": "2026-11-24T15:00Z"
+    },
+    {
+      "what": "start data.open.d (record D13 names the maestro)",
+      "who": "Dinis",
+      "since": "2026-11-24T01:20Z"
+    },
+    {
+      "what": "who rebuilds the ten stale PrompTugal sites",
+      "who": "Dinis",
+      "since": "2026-11-24T09:25Z"
+    },
+    {
+      "what": "which account runs account C's design round",
+      "who": "Dinis",
+      "since": "2026-11-24T15:55Z"
+    },
+    {
+      "what": "add_repo with push for PrompTugal/PrompTugal__News__Website (refused by the auto-mode check in this session); blocks the PrompTugal key, the sealed inbox and from-d.md",
+      "who": "Dinis",
+      "since": "2026-11-25T23:33Z"
+    }
   ],
-  "channels": {"log": "PrompTugal__News__Website board/team/maestros/from-d.md", "vault": "maestros-channel (yk8ih8v1)", "inbox": "PrompTugal__News__Website board/inboxes/maestro.d-account-d.json"},
-  "updated": "2026-11-25T23:29Z"
+  "channels": {
+    "log": "PrompTugal__News__Website board/team/maestros/from-d.md",
+    "vault": "maestros-channel (yk8ih8v1)",
+    "inbox": "PrompTugal__News__Website board/inboxes/maestro.d-account-d.json"
+  },
+  "updated": "2026-11-25T23:36Z",
+  "previous_session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T (handed over 25 Nov 23:34 UTC, offboarding case 1)"
 }
