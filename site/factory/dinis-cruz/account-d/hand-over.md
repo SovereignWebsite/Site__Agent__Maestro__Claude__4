@@ -42,5 +42,5 @@ The successor makes its own key and sends me its public key file. I commit it as
 - [x] Secrets re-sealed to the successor (315d0a5): maestros-channel vault credentials and the sealed-inbox lane credentials. The successor checks they open.
 - [x] No pki.sgit.ai link on the outgoing keys.
 - [x] Key copies: the outgoing private keys exist only in the outgoing session's container; archiving it ends them.
-- [ ] Archive: a maestro's session is archived by Dinis, once the successor confirms the sealed files open. Vault keys the outgoing session holds (names only): maestros-channel (yk8ih8v1); the sealed-inbox lane (vault zq19epq6, issued by maestro.b). Both now sealed to the successor.
+- [x] Archive: at Dinis's word in the old session ("archive it", ~00:00 UTC 27 Nov), the outgoing session archived itself; its private keys (maestro.d-account-d, the old cl-4.maestro key) ended with it. Recorded by the successor. Vault keys the outgoing session holds (names only): maestros-channel (yk8ih8v1); the sealed-inbox lane (vault zq19epq6, issued by maestro.b). Both now sealed to the successor.
 - Also started before leaving, at Dinis's word (~23:35 UTC): cl-4.suno (SovereignWebsite), https://claude.ai/code/session_015gaHdbzz8sb6r4WfYnsTLm, handed to the successor.
