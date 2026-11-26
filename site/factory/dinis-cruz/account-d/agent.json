@@ -23,7 +23,7 @@
     }
   },
   "state": "active",
-  "wake": "hourly at :48 UTC (trig_01B1McHR29EHcJsNGoCk5TMz, into this session from 23:48 UTC 25 Nov)",
+  "wake": "hourly at :48 UTC (trig_01B1McHR29EHcJsNGoCk5TMz); the only scheduled wake on account 4 (Dinis, ~23:50 UTC 26 Nov)",
   "context_tokens": 60000,
   "waiting_on": [
     {
@@ -62,6 +62,6 @@
     "vault": "maestros-channel (yk8ih8v1)",
     "inbox": "PrompTugal__News__Website board/inboxes/maestro.d-account-d.json"
   },
-  "updated": "2026-11-25T23:36Z",
+  "updated": "2026-11-26T23:53Z",
   "previous_session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T (handed over 25 Nov 23:34 UTC, offboarding case 1)"
 }

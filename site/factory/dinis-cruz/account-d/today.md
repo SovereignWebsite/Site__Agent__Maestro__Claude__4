@@ -1,4 +1,4 @@
-# Account 4 (cl-4), today: who is doing what (2026-11-26T09:49Z)
+# Account 4 (cl-4), today: who is doing what (2026-11-26T23:53Z)
 
 From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothing on account 4 is working right now; five sessions' last turns failed during the outage and wait for a message.
 
@@ -42,4 +42,4 @@ From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothi
 - d.email.dev, d.email.pm, d.email.design, d.email.workflows: idle since the Email Cell hand-over (archive candidates).
 
 ## Scheduled wakes on account 4
-cl-4.maestro hourly at :48; d.design every 2 h at :59; d.sherpa 07:37, 12:37, 17:37, 22:37; d.decisions 07:43, 10:43, 13:43, 18:43, 21:43; d.conductor (PrompTugal) 09:18, 20:18 (UTC).
+Only cl-4.maestro, hourly at :48 UTC (trig_01B1McHR29EHcJsNGoCk5TMz). Dinis, in the old maestro session ~23:50 UTC 26 Nov: "Maestro should also be running on a schedule. It's the only one that should be running on a schedule." Disabled at 23:51 UTC (not deleted, each can be re-enabled): d.design trig_01RjNGiysodf39cArd2cLeXm, d.sherpa trig_01Es9zhFruXqPcbqKMz5TAMV, d.decisions trig_01EkWuma8DGQNwD69RpwvSnw, d.conductor (PrompTugal) trig_01RfD3JkiLcx92jsphygDHab. Other agents are woken by message from the maestro.
