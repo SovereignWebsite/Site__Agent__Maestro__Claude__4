@@ -1,4 +1,4 @@
-# Account 4 (cl-4), today: who is doing what (2026-11-26T07:49Z)
+# Account 4 (cl-4), today: who is doing what (2026-11-26T08:49Z)
 
 From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothing on account 4 is working right now; five sessions' last turns failed during the outage and wait for a message.
 
@@ -23,7 +23,7 @@ From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothi
 
 ## SovereignWebsite team (d.conductor (SovereignWebsite))
 - [d.factory](https://claude.ai/code/session_015gaHde6kToHbUHDD8AN72E): waiting on Dinis (homes for Bulletins and Data, push for .d agents).
-- [d.design](https://claude.ai/code/session_015gaHdczGFLc7N3kCq8MrWz): last turn failed (22:59 loop); area on Site__Agent__Design.
+- [d.design](https://claude.ai/code/session_015gaHdczGFLc7N3kCq8MrWz): running again (06:59 UTC 26 Nov); waits on Dinis (add site/factory/dinis-cruz/account-d/** and site/factory/index.json to design_d in site/policy/abp.json; its key in site/key.json); area on Site__Agent__Design.
 - [d.library](https://claude.ai/code/session_015gaHdecGUXfFRDs8DmeUFN): area live; asks for a fresh session.
 - [d.synthetic-users](https://claude.ai/code/session_015gaHddQiB4aYZWXjfs16rM): waiting on Dinis (attach Site__Agent__Synthetic-Users).
 - [d.security](https://claude.ai/code/session_015gaHdegs3vxyNtU2tmc28P): waiting on Dinis (its key push adfc5ff).
