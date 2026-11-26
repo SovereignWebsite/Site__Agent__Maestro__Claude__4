@@ -1,4 +1,4 @@
-# Account 4 (cl-4), today: who is doing what (2026-11-25T23:30Z)
+# Account 4 (cl-4), today: who is doing what (2026-11-26T07:49Z)
 
 From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothing on account 4 is working right now; five sessions' last turns failed during the outage and wait for a message.
 
@@ -15,7 +15,7 @@ From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothi
 - [d.sherpa](https://claude.ai/code/session_015gaHdacSn5rnCfTLnoB3FL): back at 07:50 UTC 26 Nov after five missed wakes; counts of asks and records disagree between the deck and the decisions home (part 7 of its journey-dinis-deciding.md, for Dinis and b.decisions); its home attach refused a third time.
 - [d.accountant](https://claude.ai/code/session_015gaHdcjs5RkUiSfA8xzgGK): waiting on Dinis (each account's plan and price).
 - [d.counsel (account-d)](https://claude.ai/code/session_015gaHddhcfpguWLhSXwEJu6): idle; area staged.
-- [d.decisions](https://claude.ai/code/session_015gaHdaiX9VvjVwHaNezGJG): last turn failed (21:43 wake); endorsed decider for account 4, waits on Dinis's word in its session.
+- [d.decisions](https://claude.ai/code/session_015gaHdaiX9VvjVwHaNezGJG): running again (07:43 UTC wake, 26 Nov); endorsed decider for account 4, waits on Dinis's word in its session.
 - [d.studio](https://claude.ai/code/session_015gaHdbwwKT7uSfaEm8rKoq): waiting on Dinis (Mistral key for delegated studio work).
 - [d.landscape](https://claude.ai/code/session_015gaHdcXVgPryjU8ZBvpPUW): idle; area staged.
 - [d.slides](https://claude.ai/code/session_015gaHddnGD3ja8j2kzPwDp8): done; area on its home (deploy waits on the signer fix).
