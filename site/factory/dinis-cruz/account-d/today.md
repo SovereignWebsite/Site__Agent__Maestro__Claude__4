@@ -1,4 +1,4 @@
-# Account 4 (cl-4), today: who is doing what (2026-11-26T08:49Z)
+# Account 4 (cl-4), today: who is doing what (2026-11-26T09:49Z)
 
 From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothing on account 4 is working right now; five sessions' last turns failed during the outage and wait for a message.
 
@@ -6,7 +6,7 @@ From the session list at 23:30 UTC 25 Nov. Links are each agent's session. Nothi
 - [cl-4.maestro (d.maestro)](https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo): new session from 23:34 UTC 25 Nov (the old one, session_015gaHdbdtdAPC4v2AstRS8T, waits on Dinis to archive); this page, the home, relays.
 - [d.helm](https://claude.ai/code/session_015gaHdbUFC93JvpTQHrx8WV): idle; central circle; area staged in PrompTugal (home push refused).
 - [d.conductor (SovereignWebsite)](https://claude.ai/code/session_015gaHdbX954ByXJf8LH5FLL): waiting on Dinis (d.design's policy line; A3 retire f0af2f6).
-- [d.conductor (PrompTugal)](https://claude.ai/code/session_015gaHdeRkCjZyCB2PTeQiJ8): last turn failed (20:18 wake); needs a message.
+- [d.conductor (PrompTugal)](https://claude.ai/code/session_015gaHdeRkCjZyCB2PTeQiJ8): running again (09:21 UTC 26 Nov); all 13 sites load, promptugal.news at v0.1.2303, weather, civic and startups rebuilt; waits on Dinis (homes Site__Agent__Bulletins and Site__Agent__Data in d.factory's session; start data.open.d; who keeps the seven stale sites).
 - [d.conductor (AgentiCCells)](https://claude.ai/code/session_015gaHdcaj9Ta2Tke7pnZ3Q9): waiting on Dinis (copy the reversible-steps rule into AgentiCCells CLAUDE.md); Email Cell handed to cl-1.
 
 ## Central circle (d.helm)
